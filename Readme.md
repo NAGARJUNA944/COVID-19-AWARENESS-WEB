@@ -3,11 +3,11 @@
 
 <h2>Tech stacks used</h2>
 <ul>
-<li>Html5</li>
+<li>Html</li>
 <li>Css</li>
 <li>Javascript</li>
 </ul>
-<h3>Payment Gateway Integration:Razorpay</h3>
+
 
 <p>This is a covid 19 website which has diffrenet sections.This is made using only html,css,javascript.
 You can find various Informations and news.
@@ -22,8 +22,6 @@ It provides useful information about:
 ✅ Symptoms & Prevention tips
 
 📊 Live statistics (using API integration)
-
-❓ FAQs with interactive accordion
 
 📝 Self-check form with validation
 
@@ -45,3 +43,4 @@ It provides useful information about:
 
 
 <img width="1710" height="875" alt="Screenshot 2025-08-20 152331" src="https://github.com/user-attachments/assets/6826094f-d2bf-494c-86dc-301c3f4270d1" />
+
